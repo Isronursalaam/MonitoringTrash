@@ -1,0 +1,6 @@
+{
+  "name": "Smart Monitoring Trash",
+  "description": "Dashboard Monitoring Smart Trash Can with Firebase Realtime Database integration",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
