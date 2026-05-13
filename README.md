@@ -1,9 +1,6 @@
-Tentu, ini draf `README.md` yang keren dan profesional untuk proyek **Monitoring Trash** kamu. Kamu tinggal salin (copy) dan tempel (paste) ke file README di GitHub:
 
-```markdown
 # 🗑️ Monitoring Trash AI - Smart Waste Management
 
-![Banner](https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6)
 
 **Monitoring Trash** adalah platform pemantauan sampah cerdas berbasis AI yang dirancang untuk mengoptimalkan pengelolaan limbah secara real-time. Dibangun dengan teknologi web terbaru dan dukungan aplikasi mobile (Android).
 
