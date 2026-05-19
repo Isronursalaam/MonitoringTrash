@@ -1,4 +1,14 @@
+<div align="center">
 
+# Download Now
+
+## Stable Release
+
+| GitHub |
+| :---: |
+| <a href="PASTE_LINK_APK_DISINI"><img src="https://img.shields.io/badge/GET%20IT%20ON-GitHub-black?style=for-the-badge&logo=github&logoColor=white" height="50"></a> |
+
+</div>
 # 🗑️ Monitoring Trash AI - Smart Waste Management
 
 
